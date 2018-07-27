@@ -52,9 +52,9 @@ Exporta as tarefas do planejamento atual para o formato escolhido (excel, text) 
 - [x] Efetuar o login no rantera.
 - [x] Listar as tarefas do planejamento atual e recarrega-las.
 - [x] Alterar o planejamento.
-- [x] Copiar título das tarefas informadas para a área de transfer&eacirc;cia(clipboard).
+- [x] Pesquisar tarefa e ao selecionar mostrar o log dela
+- [x] Renomear as classes
+- [ ] Copiar título das tarefas informadas para a área de transferencia(clipboard).
 - [ ] Criar um branch apartir da tarefa informda. O branch deverá ser criado apartir do master
 - [ ] Exporta as tarefas do planejamento atual para o formato escolhido(excel ou txt)
 - [ ] Alterar o local de salvamento dos arquivos para o caminho: HOME/.rantera/
-- [ ] Pesquisar tarefa e ao selecionar mostrar o log dela
-- [ ] Renomear as classes
