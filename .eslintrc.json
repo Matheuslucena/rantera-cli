@@ -1,0 +1,13 @@
+{
+  "env": {
+    "jest": true,
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "rules": {
+    "no-underscore-dangle": "off",
+    "no-console": "off",
+    "indent": ["error", 4],
+    "class-methods-use-this": 0
+  }
+}

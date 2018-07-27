@@ -1,0 +1,479 @@
+{
+	"planejamentoAtual": "EWClinic-2018-05",
+	"boards": [
+		{
+			"boardName": "Backlog",
+			"itens": [
+				{
+					"number": 115589,
+					"title": "Agendamento não está responsivo",
+					"numberTitle": "#115589 - Agendamento não está responsivo",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 119814,
+					"title": "Relatório de contas a receber baseadas em clientes agendados",
+					"numberTitle": "#119814 - Relatório de contas a receber baseadas em clientes agendados",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 120398,
+					"title": "Nova funcionalidade de Exames/Laudos",
+					"numberTitle": "#120398 - Nova funcionalidade de Exames/Laudos",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 120440,
+					"title": "Adicionar foto do profissional no agendamento online",
+					"numberTitle": "#120440 - Adicionar foto do profissional no agendamento online",
+					"responsavel": "diego.silva"
+				},
+				{
+					"number": 120479,
+					"title": "Agendamento Online: seleção de dias que não possuem vagas",
+					"numberTitle": "#120479 - Agendamento Online: seleção de dias que não possuem vagas",
+					"responsavel": "diego.silva"
+				},
+				{
+					"number": 121376,
+					"title": "Relatório de produtividade por médico [Relatório Novo]",
+					"numberTitle": "#121376 - Relatório de produtividade por médico [Relatório Novo]",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 122474,
+					"title": "Configurar status utilizados na clínica",
+					"numberTitle": "#122474 - Configurar status utilizados na clínica",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 122774,
+					"title": "Exibir campos obrigatórios no agendamento - Erro",
+					"numberTitle": "#122774 - Exibir campos obrigatórios no agendamento - Erro",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 123482,
+					"title": "Relatórios exibem valores diferentes",
+					"numberTitle": "#123482 - Relatórios exibem valores diferentes",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123612,
+					"title": "Lançamentos: saldo não está de acordo com os filtros",
+					"numberTitle": "#123612 - Lançamentos: saldo não está de acordo com os filtros",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123725,
+					"title": "Relatório de Procedimentos Realizados não exibe todas as contas geradas",
+					"numberTitle": "#123725 - Relatório de Procedimentos Realizados não exibe todas as contas geradas",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124180,
+					"title": "Verificar agendamentos recorrentes",
+					"numberTitle": "#124180 - Verificar agendamentos recorrentes",
+					"responsavel": "gleydson"
+				},
+				{
+					"number": 124187,
+					"title": "Vincular vários procedimentos a um plano de contas",
+					"numberTitle": "#124187 - Vincular vários procedimentos a um plano de contas",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 125010,
+					"title": "Pacientes tem em prontuário, mas não aparece na lista de pacientes",
+					"numberTitle": "#125010 - Pacientes tem em prontuário, mas não aparece na lista de pacientes",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 125011,
+					"title": "Execução automática dos procedimentos ao finalizar consulta",
+					"numberTitle": "#125011 - Execução automática dos procedimentos ao finalizar consulta",
+					"responsavel": "gleydson"
+				},
+				{
+					"number": 125012,
+					"title": "Erro em dias para crédito",
+					"numberTitle": "#125012 - Erro em dias para crédito",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 125017,
+					"title": "Erro CPF do paciente Italo teste da silva",
+					"numberTitle": "#125017 - Erro CPF do paciente Italo teste da silva",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 125018,
+					"title": "Erro na mudança de status",
+					"numberTitle": "#125018 - Erro na mudança de status",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 125115,
+					"title": "Agendamento online: ofertar por cidades",
+					"numberTitle": "#125115 - Agendamento online: ofertar por cidades",
+					"responsavel": "diego.silva"
+				},
+				{
+					"number": 125129,
+					"title": "Limpeza de banco - Ideale",
+					"numberTitle": "#125129 - Limpeza de banco - Ideale",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 125132,
+					"title": "Cadastro de especialidades: campo CBOS",
+					"numberTitle": "#125132 - Cadastro de especialidades: campo CBOS",
+					"responsavel": "diego.silva"
+				}
+			],
+			"total": 21
+		},
+		{
+			"boardName": "Priorização",
+			"itens": [
+				{
+					"number": 124456,
+					"title": "Migração Reability Center",
+					"numberTitle": "#124456 - Migração Reability Center",
+					"responsavel": "jarbas.filho"
+				}
+			],
+			"total": 1
+		},
+		{
+			"boardName": "Em Desenvolvimento",
+			"itens": [
+				{
+					"number": 123843,
+					"title": "Chat no EW",
+					"numberTitle": "#123843 - Chat no EW",
+					"responsavel": "lucas.oliveira"
+				},
+				{
+					"number": 123904,
+					"title": "Sala de Espera: adicionar filtro “Profissional”",
+					"numberTitle": "#123904 - Sala de Espera: adicionar filtro “Profissional”",
+					"responsavel": "diego.silva"
+				},
+				{
+					"number": 124465,
+					"title": "Restringir visualização para o profissional de saúde",
+					"numberTitle": "#124465 - Restringir visualização para o profissional de saúde",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 124975,
+					"title": "Verificação de problemas na conciliação do EWClinic - ERP Policlinica",
+					"numberTitle": "#124975 - Verificação de problemas na conciliação do EWClinic - ERP Policlinica",
+					"responsavel": "lucas.oliveira"
+				}
+			],
+			"total": 4
+		},
+		{
+			"boardName": "Impedimento",
+			"itens": [
+				{
+					"number": 124334,
+					"title": "Cadastro de CRUD de empresas conveniadas e contratos",
+					"numberTitle": "#124334 - Cadastro de CRUD de empresas conveniadas e contratos",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 124530,
+					"title": "CRUD de GrupoRiscoOcupacional e de RiscoOcupacional",
+					"numberTitle": "#124530 - CRUD de GrupoRiscoOcupacional e de RiscoOcupacional",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 124571,
+					"title": "CRUD de TipoExamePcmso",
+					"numberTitle": "#124571 - CRUD de TipoExamePcmso",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 124592,
+					"title": "CRUD de PCMSO",
+					"numberTitle": "#124592 - CRUD de PCMSO",
+					"responsavel": "matheus.lucena"
+				}
+			],
+			"total": 4
+		},
+		{
+			"boardName": "Em aceitação",
+			"itens": [
+				{
+					"number": 122554,
+					"title": "Agendamentos: alterar impressão",
+					"numberTitle": "#122554 - Agendamentos: alterar impressão",
+					"responsavel": "diego.silva"
+				},
+				{
+					"number": 124572,
+					"title": "Migração Midway",
+					"numberTitle": "#124572 - Migração Midway",
+					"responsavel": "jarbas.filho"
+				}
+			],
+			"total": 2
+		},
+		{
+			"boardName": "Validado",
+			"itens": [
+				{
+					"number": 119611,
+					"title": "Adicionar campo de busca rápido",
+					"numberTitle": "#119611 - Adicionar campo de busca rápido",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 122977,
+					"title": "Orçamento: adicionar campo e configurações",
+					"numberTitle": "#122977 - Orçamento: adicionar campo e configurações",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 123865,
+					"title": "Agendamento Online: cadastro de sub especialidades",
+					"numberTitle": "#123865 - Agendamento Online: cadastro de sub especialidades",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123906,
+					"title": "Relatório de Rateio: adicionar CPF",
+					"numberTitle": "#123906 - Relatório de Rateio: adicionar CPF",
+					"responsavel": "diego.silva"
+				},
+				{
+					"number": 124674,
+					"title": "Ajustes na configuração da Clinica - Integração ERP",
+					"numberTitle": "#124674 - Ajustes na configuração da Clinica - Integração ERP",
+					"responsavel": "lucas.oliveira"
+				},
+				{
+					"number": 125016,
+					"title": "Grupo de procedimentos",
+					"numberTitle": "#125016 - Grupo de procedimentos",
+					"responsavel": "diego.silva"
+				}
+			],
+			"total": 6
+		},
+		{
+			"boardName": "Produção",
+			"itens": [
+				{
+					"number": 120522,
+					"title": "Configurar painel de chamada",
+					"numberTitle": "#120522 - Configurar painel de chamada",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 120907,
+					"title": "Cadastrar agenda sem dias fixos na semana",
+					"numberTitle": "#120907 - Cadastrar agenda sem dias fixos na semana",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 121258,
+					"title": "Gerar conta a receber: campo CPF deve ser obrigatório",
+					"numberTitle": "#121258 - Gerar conta a receber: campo CPF deve ser obrigatório",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 121264,
+					"title": "Inserir endereço no receituário de controle especial",
+					"numberTitle": "#121264 - Inserir endereço no receituário de controle especial",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 121380,
+					"title": "Agendamentos / Atendimentos: exibir quem atendeu [Pequeno Ajuste]",
+					"numberTitle": "#121380 - Agendamentos / Atendimentos: exibir quem atendeu [Pequeno Ajuste]",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 121383,
+					"title": "Adicionar mais opções no campo \"Como conheceu a clínica\" [Pequeno Ajuste]",
+					"numberTitle": "#121383 - Adicionar mais opções no campo \"Como conheceu a clínica\" [Pequeno Ajuste]",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 121387,
+					"title": "Histórico do paciente: adicionar campos [Pequeno Ajuste]",
+					"numberTitle": "#121387 - Histórico do paciente: adicionar campos [Pequeno Ajuste]",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 121911,
+					"title": "Receituário Controle Especial: gerar 2 cópias",
+					"numberTitle": "#121911 - Receituário Controle Especial: gerar 2 cópias",
+					"responsavel": "matheus.lucena"
+				},
+				{
+					"number": 122279,
+					"title": "Relatório de rateio: adicionar coluna",
+					"numberTitle": "#122279 - Relatório de rateio: adicionar coluna",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 122741,
+					"title": "Adição de campos acrescimos e desconto na conta a receber",
+					"numberTitle": "#122741 - Adição de campos acrescimos e desconto na conta a receber",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123314,
+					"title": "Gerar conta a receber: Número de Autorização obrigatório [Financeiro]",
+					"numberTitle": "#123314 - Gerar conta a receber: Número de Autorização obrigatório [Financeiro]",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123458,
+					"title": "Origem dos pacientes [Pequeno Ajuste]",
+					"numberTitle": "#123458 - Origem dos pacientes [Pequeno Ajuste]",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123464,
+					"title": "Gerar conta a receber: descontos do total rateado nos procedimentos",
+					"numberTitle": "#123464 - Gerar conta a receber: descontos do total rateado nos procedimentos",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123471,
+					"title": "Adição de filtro no relatório de agendamentos/atendimentos",
+					"numberTitle": "#123471 - Adição de filtro no relatório de agendamentos/atendimentos",
+					"responsavel": "kandell.oliveira"
+				},
+				{
+					"number": 123475,
+					"title": "Campo de desconto em Pacote de procedimentos",
+					"numberTitle": "#123475 - Campo de desconto em Pacote de procedimentos",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123480,
+					"title": "Relatório de produção fiscal",
+					"numberTitle": "#123480 - Relatório de produção fiscal",
+					"responsavel": "lucas.oliveira"
+				},
+				{
+					"number": 123510,
+					"title": "Agendamento Online: verificar valor informado",
+					"numberTitle": "#123510 - Agendamento Online: verificar valor informado",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123513,
+					"title": "Agendamento online: número de vagas negativo",
+					"numberTitle": "#123513 - Agendamento online: número de vagas negativo",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123560,
+					"title": "Erro nos valores de procedimentos",
+					"numberTitle": "#123560 - Erro nos valores de procedimentos",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123589,
+					"title": "Painel de chamada: abrir sem precisar logar",
+					"numberTitle": "#123589 - Painel de chamada: abrir sem precisar logar",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123624,
+					"title": "Agendamento online: não exibir valor para planos de saúde",
+					"numberTitle": "#123624 - Agendamento online: não exibir valor para planos de saúde",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123710,
+					"title": "Fila de Recepção: gerar conta exibe informações de outro paciente",
+					"numberTitle": "#123710 - Fila de Recepção: gerar conta exibe informações de outro paciente",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123745,
+					"title": "BI/ API: Agendamentos",
+					"numberTitle": "#123745 - BI/ API: Agendamentos",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123758,
+					"title": "Não é possível gerar conta avulsa",
+					"numberTitle": "#123758 - Não é possível gerar conta avulsa",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 123835,
+					"title": "Divergências no número de vagas do agendamento online",
+					"numberTitle": "#123835 - Divergências no número de vagas do agendamento online",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124005,
+					"title": "Não é possível gerar conta avulsa",
+					"numberTitle": "#124005 - Não é possível gerar conta avulsa",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124030,
+					"title": "Agendamento online: horários bloqueados e agendamento múltiplo",
+					"numberTitle": "#124030 - Agendamento online: horários bloqueados e agendamento múltiplo",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124165,
+					"title": "Cadastros - Procedimentos: tela carregando",
+					"numberTitle": "#124165 - Cadastros - Procedimentos: tela carregando",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124169,
+					"title": "Não é possível gerar conta",
+					"numberTitle": "#124169 - Não é possível gerar conta",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124200,
+					"title": "Divergências no agendamento online",
+					"numberTitle": "#124200 - Divergências no agendamento online",
+					"responsavel": "jarbas.filho"
+				},
+				{
+					"number": 124350,
+					"title": "Vincular um grupo de procedimentos a um plano de contas",
+					"numberTitle": "#124350 - Vincular um grupo de procedimentos a um plano de contas",
+					"responsavel": "lucas.oliveira"
+				}
+			],
+			"total": 31
+		}
+	],
+	"planejamentoList": [
+		{
+			"descricao": "Meu Quadro de Tarefas",
+			"idPlanejamento": null
+		},
+		{
+			"descricao": "EWClinic-2018-05",
+			"idPlanejamento": 1043446
+		},
+		{
+			"descricao": "EWClinic-2018.04",
+			"idPlanejamento": 1024813
+		},
+		{
+			"descricao": "EWClinic",
+			"idPlanejamento": 0
+		}
+	]
+}
