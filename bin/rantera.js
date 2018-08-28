@@ -54,6 +54,15 @@ program
     });
 
 program
+    .command('copy')
+    .alias('cp')
+    .description('copia o titulo da tarefa selecionada substituindo espaços e acentos para o clipboard')
+    .action(() => {
+        clearConsole.createTitle();
+        tarefa.copiarTitulo();
+    });
+
+program
     .command('branch [numeroTarefa]')
     .alias('br')
     .description('criar um branch da tarefa')
