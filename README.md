@@ -28,19 +28,15 @@ Lista as tarefas do rantera que estiverem salvas.
 Altera o planejamento atual
 * **Ex.:** `rantera sprint`
 
-## > copy <...ids> (cp)
-Copia o titulo das tarefas informadas para a area de transfer&ecirc;ncia. Aceita como par&acirc;metro vários número de tarefas.
-* **Ex.:** `ratera copy -t ${numero_tarefa}`
+## > find (fd)
+Pesquisa tarefas no planejamento atual. E ao selecionar tarefa sera perguntado se deseja ver logs.
+* **Ex.:** `ratera find`
 
-| Op&ccedil;&otilde;es | Descri&ccedil;&atilde;o                            |
-| -------------------- | -------------------------------------------------- |
-| `-t --title`         | Copia os t&iacute;tulos das tarefas informada      |
-
-## > branch <id> (br)
+## > branch <id> (br) [TODO]
 Cria um branch ,a partir do master, com o t&iacute;tulo da tarefa informada. Para rodar este comando deve-se está dentro do diretorio que tenha um .git configurado.
 * **Ex.:** `ratera branch ${numero_tarefa}`
 
-## > export [dir] (exp)
+## > export [dir] (exp) [TODO]
 Exporta as tarefas do planejamento atual para o formato escolhido (excel, text) no diretorio informado. Caso nenhum diretorio seja informado será exportado par ao atual.
 * **Ex.:** `ratera export ./`
 
@@ -52,9 +48,9 @@ Exporta as tarefas do planejamento atual para o formato escolhido (excel, text) 
 - [x] Efetuar o login no rantera.
 - [x] Listar as tarefas do planejamento atual e recarrega-las.
 - [x] Alterar o planejamento.
-- [x] Copiar título das tarefas informadas para a área de transfer&eacirc;cia(clipboard).
+- [x] Pesquisar tarefa e ao selecionar mostrar o log dela
+- [x] Renomear as classes
+- [ ] Copiar título das tarefas informadas para a área de transferencia(clipboard).
 - [ ] Criar um branch apartir da tarefa informda. O branch deverá ser criado apartir do master
 - [ ] Exporta as tarefas do planejamento atual para o formato escolhido(excel ou txt)
 - [ ] Alterar o local de salvamento dos arquivos para o caminho: HOME/.rantera/
-- [ ] Pesquisar tarefa e ao selecionar mostrar o log dela
-- [ ] Renomear as classes
